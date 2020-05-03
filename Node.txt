@@ -1,0 +1,108 @@
+
+ 
+  349  sudo apt-get install-mysql
+  350  sudo apt-get update
+  351  sudo apt-get install mysql-server
+  ## installing mysql....
+  352  sudo install -g npm
+  353  sudo npm install -g npm
+  354  sudo npm install -g
+  ## installing npm ....
+  355  install hapi-mysql using
+  356  install hapi-mysql
+  ## installing hapi.... 
+  357  sudo apt update
+  358  sudo apt install nodejs npm
+  ## installing node npm....
+  359  -v# chk the version....
+  360  node -v
+  361  sudo apt install nodejs-legacy
+  ## to update the node
+  362  node -v
+  363  sudo apt update 
+  364  node -v
+  365  sudo apt install nodejs npm
+  366  node -v
+  ## updating...
+  curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
+  ## setting it to 11.80 version...
+  421  sudo apt-get install yarn
+   sudo npm install --save async
+  392  sudo apt instsll --save inert
+  393  sudo apt install --save inert
+  394  sudo npm install --save inert
+  395  sudo npm install --save babel
+  396  sudo npm install --save boom
+  397  sudo npm install --save dotenv
+  398  sudo npm install --save fs
+  399  sudo npm install --save hapi-swagger
+  400  sudo npm install --save knex
+  401  sudo npm install --save mysql
+  402  sudo npm install --save nodemon
+  403  sudo npm install --save vision
+  404  sudo npm install --save babel-core
+  405  sudo npm install --save babel-present-es2015
+  ## all are the packages that we will need in node
+  406  cd myproject
+  # make a directory...
+  439  touch knex.js
+  # file of knex
+  440  cd ..
+  441  history
+  442  cd myprojest
+  443  cd myproject
+  444  knex.init
+  ## will make a knexfile.js
+  445  knex init
+  446  knex init
+  447  npm start
+  # this command runs the server in the postman
+  448  knex migrate:latest
+## datastructure file has been made after making the knex gloabal
+sudo npm install -g knex# this will make the knex global
+knex init
+node index.js
+  455  node index.js
+  # we made the file of server which we  have to run is index.js where we write what ever we are going to do that wht we are connecting to it
+  456  touch hello.html
+  make a public folder in that make a html file and try it to run through index....
+  457  npm install hapi pino
+  458  mkdir public
+  459  touch server.js#make a server file to run the html file
+  460  touch route.js# have to make route file in which we will guide that what we have to do like, get,post,update or delete...
+  461  cd mysql
+  462  mysql
+  463  mysql -u root
+  # command to enter mysql
+  464  mysql -u root -p
+  snap install postman
+  ## install postman in which we will run the server
+  468  danny1312
+  469  snap install postman
+  470  node index.js
+  471  cd myproject
+  472  node index.js
+  473  history
+  474  mkdir migration
+  # make a forlder in my project  
+  475  knex migrate:make datastructure
+  476  mkdir seeds
+  # make a seed folder and then inside it make a user file in which we will write all the data of the user
+  477  knex seed:make user# with this file we will be able to make the user file
+  478  knex migrate:latest
+  479  knex migrate:latest
+knex seed:run## this will run the seed file
+  481  knex seed:run
+  482  npm start## run the file
+  483  npm start
+
+  to be read today.....
+  axios
+  promises
+  all,then,resolve,catch,reject
+  freecode camp group
+
+
+
+
+
